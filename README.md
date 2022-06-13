@@ -7,3 +7,4 @@
 1. Quote Generator
 2. Infinity Scroll
 3. Picture in Picture
+4. Joke Teller
