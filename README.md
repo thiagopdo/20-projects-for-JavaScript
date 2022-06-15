@@ -8,3 +8,4 @@
 2. Infinity Scroll
 3. Picture in Picture
 4. Joke Teller
+5. Light and Dark Mode
