@@ -10,3 +10,4 @@
 4. Joke Teller
 5. Light and Dark Mode
 6. Animated Template
+7. Animated Navigation
